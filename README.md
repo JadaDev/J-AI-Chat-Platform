@@ -41,7 +41,7 @@ This project currently utilizes the Google Gemini API. Future development may in
 
 4.  **Admin Setup:**
     *   **Create User Account:** Create a new user account through the registration page.
-    *   **Set Admin Role:**  Access your database (e.g., using phpMyAdmin). In the `users` table, find the newly created user and set the `is_admin` field to `1`.
+    *   **Set Admin Role:**  Access your database (e.g., using phpMyAdmin). In the `users` table, find the newly created user and change the `user_role` field to `admin`.
     *   **Login:** Log in to the platform with the newly created admin account.
 
 5.  **API Key Configuration:**
