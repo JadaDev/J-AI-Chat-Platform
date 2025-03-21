@@ -15,7 +15,7 @@ This project currently utilizes the Google Gemini API. Future development may in
 
 ### Chat Panel
 
-![Chat Panel Screenshot]([ChatPanel](https://github.com/JadaDev/J-AI-Chat-Platform/blob/main/J-AI-Chat-Panel.png?raw=true))
+![Chat Panel Screenshot]([ChatPanel]([https://github.com/JadaDev/J-AI-Chat-Platform/blob/main/J-AI-Chat-Panel.png?raw=true](https://raw.githubusercontent.com/JadaDev/J-AI-Chat-Platform/refs/heads/main/J-AI-Chat-Panel.png)))
 
 ### Admin Panel
 
