@@ -22,8 +22,6 @@ This project currently utilizes the Google Gemini API. Future development may in
 ### Profile Panel
 ![Profile Panel](https://raw.githubusercontent.com/JadaDev/J-AI-Chat-Platform/refs/heads/main/J-AI-Profile-Panel.png)
 
-**Note:**  Make sure to create a `screenshots` folder in your repository and place the actual screenshot images there.  Name them `chat_panel.png`, `admin_panel.png`, and `profile_panel.png` respectively.  Otherwise, the images won't display correctly on GitHub.  You can use other image formats like `.jpg` or `.jpeg` if you prefer, but make sure to update the file extensions in the `README.md` file accordingly.
-
 ## Installation
 
 1.  **Requirements:**
