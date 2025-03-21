@@ -14,16 +14,13 @@ This project currently utilizes the Google Gemini API. Future development may in
 ## Screenshots
 
 ### Chat Panel
-
-![Chat Panel Screenshot]([ChatPanel]([https://github.com/JadaDev/J-AI-Chat-Platform/blob/main/J-AI-Chat-Panel.png?raw=true](https://raw.githubusercontent.com/JadaDev/J-AI-Chat-Platform/refs/heads/main/J-AI-Chat-Panel.png)))
-
-### Admin Panel
-
-![Admin Panel Screenshot](AdminPanel](https://github.com/JadaDev/J-AI-Chat-Platform/blob/main/J-AI-Admin-Panel.png?raw=true))
+![Chat Panel](https://raw.githubusercontent.com/JadaDev/J-AI-Chat-Platform/refs/heads/main/J-AI-Chat-Panel.png)
 
 ### Profile Panel
+![Profile Panel](https://raw.githubusercontent.com/JadaDev/J-AI-Chat-Platform/refs/heads/main/J-AI-Profile-Panel.png)
 
-![Profile Panel Screenshot]([ProfilePanel](https://github.com/JadaDev/J-AI-Chat-Platform/blob/main/J-AI-Profile-Panel.png?raw=true))
+### Admin Panel
+![Admin Panel](https://raw.githubusercontent.com/JadaDev/J-AI-Chat-Platform/refs/heads/main/J-AI-Admin-Panel.png)
 
 **Note:**  Make sure to create a `screenshots` folder in your repository and place the actual screenshot images there.  Name them `chat_panel.png`, `admin_panel.png`, and `profile_panel.png` respectively.  Otherwise, the images won't display correctly on GitHub.  You can use other image formats like `.jpg` or `.jpeg` if you prefer, but make sure to update the file extensions in the `README.md` file accordingly.
 
