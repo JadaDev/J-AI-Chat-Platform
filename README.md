@@ -43,9 +43,6 @@ This project currently utilizes the Google Gemini API. Future development may in
     *   **Login:** Log in to the platform with the newly created admin account.
 
 4.1 **SQL:**
-# SQL Insert Statement Documentation
-
-## Overview
 
 This SQL statement inserts a new user record into the `users` table. The user is an administrator with predefined credentials and default configuration settings.
 
