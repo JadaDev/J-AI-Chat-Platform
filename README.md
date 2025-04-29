@@ -64,7 +64,7 @@ INSERT INTO `users`
 (`user_id`, `username`, `email`, `password`, `first_name`, `last_name`, `profile_picture`, `user_role`, `preferred_model`, `created_at`, `last_login`, `is_active`, `token_reset`, `token_expiry`, `usage_count`) 
 VALUES 
 ('12', 'admin', 'admin@example.com', '$2y$10$G1s588zTN4od8eRzDiVS5eOKB6Fuu7TaaG3b7OAMrzXuUYKF52bFS', '', '', 'default-avatar.png', 'user', 'gemini-2.0-flash', '2025-04-29 15:42:52', '2025-04-29 15:42:58', '1', NULL, NULL, '1');
-
+```
 5.  **API Key Configuration:**
     *   Access the Admin Panel.
     *   Add your Google Gemini API key in the designated field.
