@@ -42,6 +42,32 @@ This project currently utilizes the Google Gemini API. Future development may in
     *   **Set Admin Role:**  Access your database (e.g., using phpMyAdmin). In the `users` table, find the newly created user and change the `user_role` field to `admin`.
     *   **Login:** Log in to the platform with the newly created admin account.
 
+4.1 **SQL:**
+# SQL Insert Statement Documentation
+
+## Overview
+
+This SQL statement inserts a new user record into the `users` table. The user is an administrator with predefined credentials and default configuration settings.
+
+---
+
+## Credentials
+
+- **Username:** `admin`
+- **Password:** `admin123`  
+  _(Note: In the SQL, the password is stored as a hashed string using bcrypt.)_
+- **Email:** `admin@example.com`
+
+---
+
+## SQL Statement
+
+```sql
+INSERT INTO `users` 
+(`user_id`, `username`, `email`, `password`, `first_name`, `last_name`, `profile_picture`, `user_role`, `preferred_model`, `created_at`, `last_login`, `is_active`, `token_reset`, `token_expiry`, `usage_count`) 
+VALUES 
+('12', 'admin', 'admin@example.com', '$2y$10$G1s588zTN4od8eRzDiVS5eOKB6Fuu7TaaG3b7OAMrzXuUYKF52bFS', '', '', 'default-avatar.png', 'user', 'gemini-2.0-flash', '2025-04-29 15:42:52', '2025-04-29 15:42:58', '1', NULL, NULL, '1');
+
 5.  **API Key Configuration:**
     *   Access the Admin Panel.
     *   Add your Google Gemini API key in the designated field.
